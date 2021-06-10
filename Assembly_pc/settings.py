@@ -59,10 +59,10 @@ INTERNAL_IPS = [
 ]
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = '465'
-EMAIL_HOST_USER = '916131@gapps.ispu.ru'
+EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_SSL = 'True'
-DEFAULT_FROM_EMAIL = '916131@gapps.ispu.ru'
+DEFAULT_FROM_EMAIL = ''
 
 
 
